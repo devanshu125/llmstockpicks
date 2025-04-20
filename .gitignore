@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# secrets file
+key_secrets.py
+
+# other random files
+.DS_Store

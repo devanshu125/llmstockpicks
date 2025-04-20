@@ -1,0 +1,8 @@
+requests == 2.32.3
+pandas == 2.2.3
+beautifulsoup4 == 4.13.3
+lxml == 5.3.0
+matplotlib == 3.10.0
+yfinance == 0.2.54
+mplfinance == 0.12.10b0
+streamlit == 1.42.2
