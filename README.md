@@ -27,7 +27,4 @@ We follow the same single stock architecture here but this time we iterate on al
 ## Dashboard
 Here we can see how the LLM output looks like for a single stock.
 
-<video>
-  <source src="img/dashboard_demo.mov" type="video/mp4">
-</video>
-
+https://github.com/user-attachments/assets/d7eed627-ceda-4d27-a850-a70c5d3b0fe7
